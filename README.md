@@ -2,7 +2,7 @@
 
 **BCA Cyber Security Graduate | Penetration Testing & Web Application Security | Burp Suite, Nmap, OWASP ZAP**
 
-📍 Ranchi, Jharkhand, India · 🔗 [LinkedIn](https://www.linkedin.com/in/arfayee-alam-khan-a78a83307) · 📧 arfayee@gmail.com
+📍 Ranchi, Jharkhand, India · 🔗 [LinkedIn](https://www.linkedin.com/in/arfayee-alam-khan-a78a83307) · 🌐 [Portfolio](https://arfayee-khan.github.io) · 📧 arfayee@gmail.com
 
 ---
 
@@ -70,6 +70,7 @@ I completed 140+ hours of structured coursework through INE under instructor Ale
 
 ## Connect With Me
 
+- **Portfolio:** [arfayee-khan.github.io](https://arfayee-khan.github.io)
 - **LinkedIn:** [linkedin.com/in/arfayee-alam-khan-a78a83307](https://www.linkedin.com/in/arfayee-alam-khan-a78a83307)
 - **Email:** arfayee@gmail.com
 
